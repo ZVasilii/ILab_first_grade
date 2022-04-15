@@ -1,0 +1,14 @@
+
+***DUMP***
+
+Pointer on stack: 0x7fff46955090
+Capacity of stack: 30
+Calculated hash: 1927692318
+Canary 1: 2624
+Canary 2: 8040
+Size of stack: 0
+Pointer on data: 0x5568c8e96280
+
+
+***END OF DUMP***
+
